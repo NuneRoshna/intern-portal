@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/intern-portal/static/css/main.581b27ba.css",
-    "main.js": "/intern-portal/static/js/main.7e1232c4.js",
+    "main.js": "/intern-portal/static/js/main.c85160c9.js",
     "index.html": "/intern-portal/index.html",
     "main.581b27ba.css.map": "/intern-portal/static/css/main.581b27ba.css.map",
-    "main.7e1232c4.js.map": "/intern-portal/static/js/main.7e1232c4.js.map"
+    "main.c85160c9.js.map": "/intern-portal/static/js/main.c85160c9.js.map"
   },
   "entrypoints": [
     "static/css/main.581b27ba.css",
-    "static/js/main.7e1232c4.js"
+    "static/js/main.c85160c9.js"
   ]
 }
